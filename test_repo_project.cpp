@@ -4,8 +4,16 @@
 #include <iostream>
 
 
+
+int Z6()
+{
+    std::abort();
+}
+
+
 int main()
 {
+    Z6();
     std::cout << "Hello World! 666";
 } 
 
