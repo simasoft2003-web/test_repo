@@ -13,6 +13,7 @@ int Z6()
 
 int main()
 {
+    Z6();
     std::cout << "Hello World! 666";
 } 
 
