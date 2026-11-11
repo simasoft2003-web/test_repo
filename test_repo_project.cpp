@@ -4,6 +4,13 @@
 #include <iostream>
 
 
+
+int Z6()
+{
+    ;
+}
+
+
 int main()
 {
     std::cout << "Hello World! 666";
